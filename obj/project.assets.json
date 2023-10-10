@@ -10734,11 +10734,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\005053613\\Desktop\\ISTEA\\HerramientasDeProgramacion\\Parcial\\Parcial.csproj",
+      "projectUniqueName": "C:\\Users\\005053613\\Desktop\\ISTEA\\PrimerCuatri-2023\\HerramientasDeProgramacion\\Parcial\\Parcial.csproj",
       "projectName": "Parcial",
-      "projectPath": "C:\\Users\\005053613\\Desktop\\ISTEA\\HerramientasDeProgramacion\\Parcial\\Parcial.csproj",
+      "projectPath": "C:\\Users\\005053613\\Desktop\\ISTEA\\PrimerCuatri-2023\\HerramientasDeProgramacion\\Parcial\\Parcial.csproj",
       "packagesPath": "C:\\Users\\005053613\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\005053613\\Desktop\\ISTEA\\HerramientasDeProgramacion\\Parcial\\obj\\",
+      "outputPath": "C:\\Users\\005053613\\Desktop\\ISTEA\\PrimerCuatri-2023\\HerramientasDeProgramacion\\Parcial\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\005053613\\AppData\\Roaming\\NuGet\\NuGet.Config"

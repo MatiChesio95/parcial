@@ -9,77 +9,77 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Parcial
 build_property.RootNamespace = Parcial
-build_property.ProjectDir = C:\Users\005053613\Desktop\ISTEA\HerramientasDeProgramacion\Parcial\
+build_property.ProjectDir = c:\Users\005053613\Desktop\ISTEA\PrimerCuatri-2023\HerramientasDeProgramacion\Parcial\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\005053613\Desktop\ISTEA\HerramientasDeProgramacion\Parcial
+build_property.MSBuildProjectDirectory = c:\Users\005053613\Desktop\ISTEA\PrimerCuatri-2023\HerramientasDeProgramacion\Parcial
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/005053613/Desktop/ISTEA/HerramientasDeProgramacion/Parcial/Views/Home/Index.cshtml]
+[c:/Users/005053613/Desktop/ISTEA/PrimerCuatri-2023/HerramientasDeProgramacion/Parcial/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/005053613/Desktop/ISTEA/HerramientasDeProgramacion/Parcial/Views/Home/Privacy.cshtml]
+[c:/Users/005053613/Desktop/ISTEA/PrimerCuatri-2023/HerramientasDeProgramacion/Parcial/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/005053613/Desktop/ISTEA/HerramientasDeProgramacion/Parcial/Views/Menu/Create.cshtml]
+[c:/Users/005053613/Desktop/ISTEA/PrimerCuatri-2023/HerramientasDeProgramacion/Parcial/Views/Menu/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/005053613/Desktop/ISTEA/HerramientasDeProgramacion/Parcial/Views/Menu/Delete.cshtml]
+[c:/Users/005053613/Desktop/ISTEA/PrimerCuatri-2023/HerramientasDeProgramacion/Parcial/Views/Menu/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/005053613/Desktop/ISTEA/HerramientasDeProgramacion/Parcial/Views/Menu/Details.cshtml]
+[c:/Users/005053613/Desktop/ISTEA/PrimerCuatri-2023/HerramientasDeProgramacion/Parcial/Views/Menu/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/005053613/Desktop/ISTEA/HerramientasDeProgramacion/Parcial/Views/Menu/Edit.cshtml]
+[c:/Users/005053613/Desktop/ISTEA/PrimerCuatri-2023/HerramientasDeProgramacion/Parcial/Views/Menu/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/005053613/Desktop/ISTEA/HerramientasDeProgramacion/Parcial/Views/Menu/Index.cshtml]
+[c:/Users/005053613/Desktop/ISTEA/PrimerCuatri-2023/HerramientasDeProgramacion/Parcial/Views/Menu/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/005053613/Desktop/ISTEA/HerramientasDeProgramacion/Parcial/Views/Restauranttroller/Create.cshtml]
+[c:/Users/005053613/Desktop/ISTEA/PrimerCuatri-2023/HerramientasDeProgramacion/Parcial/Views/Restauranttroller/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudHRyb2xsZXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/005053613/Desktop/ISTEA/HerramientasDeProgramacion/Parcial/Views/Restauranttroller/Delete.cshtml]
+[c:/Users/005053613/Desktop/ISTEA/PrimerCuatri-2023/HerramientasDeProgramacion/Parcial/Views/Restauranttroller/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudHRyb2xsZXJcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/005053613/Desktop/ISTEA/HerramientasDeProgramacion/Parcial/Views/Restauranttroller/Details.cshtml]
+[c:/Users/005053613/Desktop/ISTEA/PrimerCuatri-2023/HerramientasDeProgramacion/Parcial/Views/Restauranttroller/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudHRyb2xsZXJcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/005053613/Desktop/ISTEA/HerramientasDeProgramacion/Parcial/Views/Restauranttroller/Edit.cshtml]
+[c:/Users/005053613/Desktop/ISTEA/PrimerCuatri-2023/HerramientasDeProgramacion/Parcial/Views/Restauranttroller/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudHRyb2xsZXJcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/005053613/Desktop/ISTEA/HerramientasDeProgramacion/Parcial/Views/Restauranttroller/Index.cshtml]
+[c:/Users/005053613/Desktop/ISTEA/PrimerCuatri-2023/HerramientasDeProgramacion/Parcial/Views/Restauranttroller/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudHRyb2xsZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/005053613/Desktop/ISTEA/HerramientasDeProgramacion/Parcial/Views/Shared/Error.cshtml]
+[c:/Users/005053613/Desktop/ISTEA/PrimerCuatri-2023/HerramientasDeProgramacion/Parcial/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/005053613/Desktop/ISTEA/HerramientasDeProgramacion/Parcial/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/005053613/Desktop/ISTEA/PrimerCuatri-2023/HerramientasDeProgramacion/Parcial/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/005053613/Desktop/ISTEA/HerramientasDeProgramacion/Parcial/Views/_ViewImports.cshtml]
+[c:/Users/005053613/Desktop/ISTEA/PrimerCuatri-2023/HerramientasDeProgramacion/Parcial/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/005053613/Desktop/ISTEA/HerramientasDeProgramacion/Parcial/Views/_ViewStart.cshtml]
+[c:/Users/005053613/Desktop/ISTEA/PrimerCuatri-2023/HerramientasDeProgramacion/Parcial/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/005053613/Desktop/ISTEA/HerramientasDeProgramacion/Parcial/Views/Shared/_Layout.cshtml]
+[c:/Users/005053613/Desktop/ISTEA/PrimerCuatri-2023/HerramientasDeProgramacion/Parcial/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-7tkfltwsb4

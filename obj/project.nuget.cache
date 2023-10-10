@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lKm3AoZKV0jGL+1whRaErLl5IJyBJEl2gzhsa2wLaCsXfNuUwoXZ9squRQPv3pVp8ixY2FsuSyH+KFwVy7VieQ==",
+  "dgSpecHash": "ga/Hvl/XFORI/SBNB+03Drsf7pj0srvII4zq5NFm9AEzxzgBhAZu0guJlsJ/4d+ix03IDcrTeify4hN5eCqdew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\005053613\\Desktop\\ISTEA\\HerramientasDeProgramacion\\Parcial\\Parcial.csproj",
+  "projectFilePath": "C:\\Users\\005053613\\Desktop\\ISTEA\\PrimerCuatri-2023\\HerramientasDeProgramacion\\Parcial\\Parcial.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\005053613\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\005053613\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
